@@ -1,0 +1,38 @@
+지역변수는 반드시 초기화 하고 사용한다.
+
+%d(10) = %(12) = %x(a) = %X(A)
+10 = 012 = 0xA
+
+최단산쉬관논삼대콤
+
+비트부정(~) : -(원래값 + 1) 
+ ex) ~(-13) = 12
+ 
+ shift연산자
+  << : 원래값 * 2 ^ bit수
+   ex) 8<<2 = 32
+  >> : 원래값 / 2 ^ bit수
+   ex) 8>>2 = 2 
+   
+sc.next() : 공백 인식 못함
+
+switch (var) : 실수형, long, boolean 변수타입으로 못씀
+
+charAt(0) : 문자열에서 인덱스번호 문자 가져오는 함수
+
+ArithmeticException : 숫자계산에 관한 예외 
+ ex) 2 / 0
+ 
+continue :  for문의 경우 증감식으로 이동하며, 
+            while문과 do-while문의 경우 조건식으로 이동한다.
+
+Arrays.sort(a); : a[] 오름차순으로 정렬하기
+selection sort : int j = j+1; j < a.length; i++
+                 a[i] < a[j]
+bubble sort : int j = 0; j < a.length - i -1; j++
+              a[j] < a[j+1]
+
+Math.random() * n <=== 0 ~ n-1 값 추출됨
+rand.nextInt(n);  // 0 ~ n-1 값 추출함
+
+public static void plus(String...x) { } : 가변길이 배열
