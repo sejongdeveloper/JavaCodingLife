@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
-	<name>ThisIsJava</name>
-=======
-	<name>JavaFxStudy</name>
->>>>>>> refs/remotes/JavaFx공부/master
+	<name>Study</name>
 	<comment></comment>
 	<projects>
 	</projects>
