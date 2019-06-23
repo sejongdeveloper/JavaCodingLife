@@ -50,7 +50,6 @@ public class RootController909 implements Initializable{
 		);
 			
 		
-		
 		TableColumn tcSmartPhone = tableView.getColumns().get(0);
 		tcSmartPhone.setCellValueFactory(new PropertyValueFactory("smartPhone"));
 		tcSmartPhone.setStyle("-fx-alignment: CENTER;");
