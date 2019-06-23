@@ -1,4 +1,4 @@
-package usefulMethod;
+package ex01.colc;
 
 public class Math_Round {
 	public static void main(String[] args) {

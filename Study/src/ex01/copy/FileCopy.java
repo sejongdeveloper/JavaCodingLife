@@ -1,8 +1,8 @@
-package ex02.copy;
+package ex01.copy;
 
 import java.io.*;
 
-public class Copy {
+public class FileCopy {
 	public static void main(String[] args) throws IOException {
 		InputStream is = new FileInputStream("tt.jpg");
 		OutputStream os = new FileOutputStream("copy.jpg");

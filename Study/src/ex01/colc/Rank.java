@@ -1,4 +1,4 @@
-package colc;
+package ex01.colc;
 
 public class Rank {
 	public static void main(String[] args) {

@@ -1,8 +1,8 @@
-package test;
+package ex01.copy;
 
 import java.util.Arrays;
 
-public class Test {
+public class ArrayCopy {
 	public static void main(String[] args) {
 		char[] arr1 = {'J', 'A', 'V', 'A'};
 		char[] arr2 = Arrays.copyOf(arr1, arr1.length);

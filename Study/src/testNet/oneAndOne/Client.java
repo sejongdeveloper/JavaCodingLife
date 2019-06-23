@@ -1,4 +1,4 @@
-package oneAndOne;
+package testNet.oneAndOne;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

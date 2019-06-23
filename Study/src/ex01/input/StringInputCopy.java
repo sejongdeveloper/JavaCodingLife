@@ -1,4 +1,4 @@
-package input;
+package ex01.input;
 
 import java.util.Scanner;
 
