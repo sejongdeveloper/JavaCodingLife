@@ -6,7 +6,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
-public class AppMain2 extends Application {
+public class AppMain861 extends Application {
 	@Override
 	public void start(Stage primaryStage) throws Exception {
 		//패딩 설정 ----------------------------

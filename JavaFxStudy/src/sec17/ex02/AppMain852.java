@@ -3,7 +3,7 @@ package sec17.ex02;
 import javafx.application.Application;
 import javafx.stage.Stage;
 
-public class AppMain extends Application {
+public class AppMain852 extends Application {
 	
 	@Override
 	public void start(Stage primaryStage) throws Exception {

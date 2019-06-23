@@ -10,7 +10,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
-public class AppMain3 extends Application {
+public class AppMain856 extends Application {
 	@Override
 	public void start(Stage primaryStage) throws Exception {
 		VBox root = new VBox(); // Parent 하위 객체인 VBox 생성

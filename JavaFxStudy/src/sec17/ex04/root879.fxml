@@ -9,27 +9,27 @@
    <children>
       <ImageView fitHeight="100.0" fitWidth="100.0">
          <image>
-            <Image url="@../fruit1.png" />
+            <Image url="@../../images/fruit1.png" />
          </image>
       </ImageView>
       <ImageView fitHeight="100.0" fitWidth="100.0">
          <image>
-            <Image url="@../fruit2.png" />
+            <Image url="@../../images/fruit2.png" />
          </image>
       </ImageView>
       <ImageView fitHeight="100.0" fitWidth="100.0">
          <image>
-            <Image url="@../fruit3.png" />
+            <Image url="@../../images/fruit3.png" />
          </image>
       </ImageView>
       <ImageView fitHeight="100.0" fitWidth="100.0">
          <image>
-            <Image url="@../fruit4.png" />
+            <Image url="@../../images/fruit4.png" />
          </image>
       </ImageView>
       <ImageView fitHeight="100.0" fitWidth="100.0">
          <image>
-            <Image url="@../fruit5.png" />
+            <Image url="@../../images/fruit5.png" />
          </image>
       </ImageView>
    </children>

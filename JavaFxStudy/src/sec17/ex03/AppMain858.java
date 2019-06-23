@@ -9,7 +9,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 
-public class AppMain extends Application{
+public class AppMain858 extends Application{
 	@Override
 	public void start(Stage primaryStage) throws Exception {
 		HBox hBox = new HBox(); // HBox 컨테이너 생성

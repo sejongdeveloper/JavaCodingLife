@@ -8,12 +8,12 @@
 	<children>
 		<ImageView fitHeight="300" fitWidth="500">
 			<image>
-				<Image url="@../test1.jpg" />
+				<Image url="@../../images/test1.jpg" />
 			</image>
 		</ImageView>
 		<ImageView preserveRatio="true" fitHeight="100" fitWidth="100">
 			<image>
-				<Image url="@../fruit2.png" />
+				<Image url="@../../images/fruit2.png" />
 			</image>
 		</ImageView>
 	</children>

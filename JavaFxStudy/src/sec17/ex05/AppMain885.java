@@ -1,4 +1,4 @@
-package ex17;
+package sec17.ex05;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
@@ -9,7 +9,7 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 
-public class AppMain extends Application{
+public class AppMain885 extends Application{
 
 	@Override
 	public void start(Stage primaryStage) throws Exception {

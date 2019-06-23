@@ -6,10 +6,10 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-public class AppMain3 extends Application {
+public class AppMain859 extends Application {
 	@Override
 	public void start(Stage primaryStage) throws Exception {
-		Parent root = FXMLLoader.load(getClass().getResource("root.fxml"));
+		Parent root = FXMLLoader.load(getClass().getResource("root859.fxml"));
 		Scene scene = new Scene(root);
 		
 		primaryStage.setTitle("AppMain");
